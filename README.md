@@ -1,4 +1,4 @@
-## Oii! Eu sou o Gabriel Barbosa 
+## Oii! Eu sou o Gabriel Barbosa, estudante em programação front-end!
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estou estudando JavaScript
