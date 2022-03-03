@@ -1,4 +1,4 @@
-## Oii! Eu sou o Gabriel Barbosa, estudante em programação front-end!
+## hi!! Im Gabriel Barbosa
 
 - 🔭 I'm currently working on front-end development
 - 🌱  I’m currently practicing HTML,CSS and JS
