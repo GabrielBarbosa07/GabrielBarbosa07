@@ -1,8 +1,8 @@
 ## Oii! Eu sou o Gabriel Barbosa, estudante em programação front-end!
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 I'm currently working on front-end development
+- 🌱  I’m currently practicing HTML,CSS and JS
+- 😄 Pronouns: he/him
 - <div align="center">
   <a href="https://github.com/GabrielBarbosa07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosa07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
