@@ -1,7 +1,7 @@
 ## hi!! Im Gabriel Barbosa
 
 - 🔭 I'm currently working on front-end development
-- 🌱  I’m currently practicing ReactJS amd NodeJS
+- 🌱  I’m currently practicing ReactJS and NodeJS
 - 😄 Pronouns: he/him
 - <div align="center">
   <a href="https://github.com/GabrielBarbosa07">
