@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently practing **ReactJS and NodeJS**
 
-- 👯 I’m looking to collaborate on **frontend**
+- 👯 I’m looking to collaborate on **front-end**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabrielBarbosa07?tab=repositories](https://github.com/GabrielBarbosa07?tab=repositories)
 
