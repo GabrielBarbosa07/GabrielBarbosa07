@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Open SDO**
 
-- 🌱 I’m currently practing **ReactJS and NodeJS**
+- 🌱 I’m currently practing **ReactJS and React Native**
 
 - 👯 I’m looking to collaborate on **front-end**
 
