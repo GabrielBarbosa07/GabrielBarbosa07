@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielbarbosa07&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielbarbosa07" /> </p>
 
-- 🔭 I’m currently working on **Open SDO**
+- 🔭 I'm currently working as a volunteer at **Open SDO**
 
 - 🌱 I’m currently practing **NextJS and Tsx**
 
