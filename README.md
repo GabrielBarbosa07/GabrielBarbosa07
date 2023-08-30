@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently practing **NextJS and Tsx** for Web Development
 
-- And I'm practing **Python** for Automation
+- 🌱 And I'm practing **Python** for Automation
 
 - 👯 I’m looking to collaborate on **front-end and Automation**
 
