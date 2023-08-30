@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielbarbosa07&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielbarbosa07" /> </p>
 
-- 🌱 I’m currently practing **NextJS and Tsx**
+- 🌱 I’m currently practing **NextJS and Tsx** for Web Development
 
-- 👯 I’m looking to collaborate on **front-end**
+- And I'm practing **Python** for Automation
+
+- 👯 I’m looking to collaborate on **front-end and Automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabrielBarbosa07?tab=repositories](https://github.com/GabrielBarbosa07?tab=repositories)
 
